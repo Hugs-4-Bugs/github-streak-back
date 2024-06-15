@@ -9,7 +9,7 @@ const REPO_URL = `https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/Hugs-4-B
 const FILE_PATH = './data.json';
 
 // Set the desired date here
-const DATE = '2024-06-07T09:56:22+05:30';
+const DATE = '2024-06-15T09:56:22+05:30';
 
 async function pushChanges() {
     try {
